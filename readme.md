@@ -5,7 +5,7 @@ Password generator using JS for Websites
 
 ## Installation
 
-- Download or copy `passwordGenerator.js` from the root directoy [click here](https://www.github.com/alexisg24/web-js-password-gen#passwordGenerator.js)
+- Download or copy `passwordGenerator.js` from the root directoy [click here](https://github.com/alexisg24/web-js-password-gen/blob/main/passwordGenerator.js)
 - Move or create a file in your code directory
 - For NodeJS [click here](https://www.github.com/alexisg24/js-password-gen)
 
